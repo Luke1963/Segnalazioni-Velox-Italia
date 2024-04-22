@@ -5,7 +5,12 @@ Ciao. Qui potrete segnalare la presenza e relativa posizione di apparati di rele
 Vi chiedo solo di essere i più precisi possibile per permettermi di mappare corretttamente gli apparati che avete incontrato sulle strade italiane. 
 * <b>TIPO DI APPARATO</b> - dovrete indicare che apparato state indicando, come i classici bidoni arancioni (VELOK), quelli blu o telecamere installate su pali al ciglio della strada.
 Nel caso di VELOK, procederò alla sola mappatura ma non a far si che ci sia il classico avviso nel navigatori in quanto sono solitamente  non contengono nessuna apparecchiatura e fungono principalmente da deterrente.
+<img> ![Velok](https://github.com/Luke1963/Segnalazioni-Velox-Italia/assets/167359083/da787aab-769e-408d-9894-42e9e63c8b10)
+ </img>                                                                                   ma se poi <img> ![Blu](https://github.com/Luke1963/Segnalazioni-Velox-Italia/assets/167359083/4a5372de-8108-45b9-b1f0-1463fd2d15cb)</img> <img> 
+ </img> 
+
 Invece per i BLU o ancor più le telecamere installate su tralicci o pali, oltre alla mappatura pocederò anche all'attivazione per ottenere il messaggi d'avviso acustico e grafico sullo schermo.
+
 
 * <b>POSIZIONE</b>. Qui varia da diverse situazioni ... da come lo averte rilevato e da dove si trova, avere via con numero civico o angolo.... se avete la possinilità di mandarmi un screeshoot di una mappa. Come potete capire più informazioni precise riuscirete a darmi e più faciliterete il mio lavoro.
 
@@ -14,3 +19,11 @@ Invece per i BLU o ancor più le telecamere installate su tralicci o pali, oltre
 Tutto questo come detto sopra è per poter fare una mappatura reale, corretta e perchè no semplice per me :)
 
 Luke
+
+* <b>TIPO DI APPARATO</b> - dovrete indicare che apparato state indicando, come i classici bidoni arancioni (VELOK), quelli blu o telecamere installate su pali al ciglio della strada.
+Nel caso di VELOK, procederò alla sola mappatura ma non a far si che ci sia il classico avviso nel navigatori in quanto sono solitamente  non contengono nessuna apparecchiatura e fungono principalmente da deterrente.
+<img> ![Velok](https://github.com/Luke1963/Segnalazioni-Velox-Italia/assets/167359083/da787aab-769e-408d-9894-42e9e63c8b10) </img>                                                                                  
+Invece per i BLU o ancor più le telecamere installate su tralicci o pali, oltre alla mappatura pocederò anche all'attivazione per ottenere il messaggi d'avviso acustico e grafico sullo schermo del nostro navigatore.
+
+ <img src =velook.jpg> </img> <img> ![camere](https://github.com/Luke1963/Segnalazioni-Velox-Italia/assets/167359083/e6754996-2f1c-405a-a8bc-007540c3455e)
+ </img> 
