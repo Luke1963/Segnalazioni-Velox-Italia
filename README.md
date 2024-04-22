@@ -5,7 +5,7 @@
 <table>
  <tr>
 <td align="center"> <b> VELOK</b></td>
-  <td border="0"><img src="https://dimages2.corriereobjects.it/files/main_image_mobile/uploads/2024/04/22/6625f146beb8d.jpeg" Style=“width:200px;height:200px></td>
+  <td align="center"><img src="https://dimages2.corriereobjects.it/files/main_image_mobile/uploads/2024/04/22/6625f146beb8d.jpeg" Style=“width:200px;height:200px></td>
 <td width="400" align="center"> per questi apparati procederò alla sola mappatura ma non a far si che ci sia il classico avviso nel navigatori in quanto solitamente  non contengono nessuna apparecchiatura e fungono principalmente da deterrente.</b></td>
 
  </tr>
@@ -23,6 +23,7 @@
    <td>Invece per i BLU o ancor più le telecamere installate su tralicci o pali, oltre alla mappatura pocederò anche all'attivazione per ottenere il messaggi d'avviso acustico e grafico sullo schermo.   </td>
  </tr>
 </table>
+
 
 
 Ciao. Qui potrete segnalare la presenza e relativa posizione di apparati di relevamento della velocità comunemente chiamati AUTOVELOX per una loro mappatura in OpenstreetMap.
