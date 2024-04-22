@@ -20,10 +20,3 @@ Tutto questo come detto sopra è per poter fare una mappatura reale, corretta e 
 
 Luke
 
-* <b>TIPO DI APPARATO</b> - dovrete indicare che apparato state indicando, come i classici bidoni arancioni (VELOK), quelli blu o telecamere installate su pali al ciglio della strada.
-Nel caso di VELOK, procederò alla sola mappatura ma non a far si che ci sia il classico avviso nel navigatori in quanto sono solitamente  non contengono nessuna apparecchiatura e fungono principalmente da deterrente.
-<img> ![Velok](https://github.com/Luke1963/Segnalazioni-Velox-Italia/assets/167359083/da787aab-769e-408d-9894-42e9e63c8b10) </img>                                                                                  
-Invece per i BLU o ancor più le telecamere installate su tralicci o pali, oltre alla mappatura pocederò anche all'attivazione per ottenere il messaggi d'avviso acustico e grafico sullo schermo del nostro navigatore.
-
- <img src =velook.jpg> </img> <img> ![camere](https://github.com/Luke1963/Segnalazioni-Velox-Italia/assets/167359083/e6754996-2f1c-405a-a8bc-007540c3455e)
- </img> 
